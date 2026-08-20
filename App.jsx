@@ -38,8 +38,8 @@ const styles = StyleSheet.create({
     borderColor: 'gray'
   },
   logo: {
-    width: 70,
-    height: 70,
+    width: 90,
+    height: 90,
     borderRadius: 10,
     marginBottom: 10
   },
@@ -47,10 +47,11 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 40,
     fontWeight: 'bold',
-    marginBottom: 10
+    marginBottom: 5
   },
   paragraph1: {
     color: '#fff',
+    fontSize: 12
   },
   paragraph2: {
     color: '#888',
